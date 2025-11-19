@@ -64,8 +64,8 @@
 
 // Ejercicio 7
 
-let precio = parseFloat(prompt("Ingresa el precio del producto: "));
-let descuento = precio * 0.10;
-let precioFinal = precio - descuento;
+// let precio = parseFloat(prompt("Ingresa el precio del producto: "));
+// let descuento = precio * 0.10;
+// let precioFinal = precio - descuento;
 
-alert("El precio con el 10% de descuento es: " + precioFinal);
+// alert("El precio con el 10% de descuento es: " + precioFinal);
